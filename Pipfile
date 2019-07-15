@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 pyowm = "*"
 flask = "*"
-connexion = {extras = ["swagger-ui"],version = "*"}
+flask-restplus = "*"
 
 [requires]
 python_version = "3.6"
